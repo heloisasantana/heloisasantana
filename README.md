@@ -4,8 +4,6 @@ Estudo Desenvolvimento Web na Trybe, atualmente no módulo de Back-End
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-santana-da-silva/) [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:heloisasantana.silva@hotmail.com)
 
-![Helo GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisasantana&show_icons=true&theme=radical)
-
 ### Tecnologias aprendidas:
 
 <div style="display: inline_block"></br>
