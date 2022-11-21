@@ -1,6 +1,6 @@
 ### Olá, sou a Heloísa! 👋
 
-Estudo Desenvolvimento Web na Trybe, atualmente no módulo de Back-End
+Estudo Desenvolvimento Web Full Stack na Trybe, atualmente no módulo de Back-End
 
 ### Contatos:
 
