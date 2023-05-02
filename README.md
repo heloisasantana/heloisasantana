@@ -1,6 +1,6 @@
 ### Olá, sou a Heloísa! 👋
 
-Estudo Desenvolvimento Web Full Stack na Trybe, atualmente no módulo de Back-End.
+Estudo Análise e Desenvolvimento de Sistemas na Fatec Zona Leste e concluí o curso de Desenvolvimento Web Full Stack na Trybe em abril.
 
 Acesse meu porfólio: https://heloisasantana.github.io/
 
