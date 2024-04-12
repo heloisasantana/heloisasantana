@@ -1,6 +1,6 @@
 ### Olá, sou a Heloísa! 👋
 
-Estudo Análise e Desenvolvimento de Sistemas na Fatec Zona Leste e concluí o curso de Desenvolvimento Web Full Stack na Trybe em abril.
+Estudo Análise e Desenvolvimento de Sistemas na Fatec Zona Leste e concluí o curso de Desenvolvimento Web Full Stack na Trybe em abril/23.
 
 Acesse meu porfólio: https://heloisasantana.github.io/
 
